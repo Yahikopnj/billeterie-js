@@ -1,0 +1,87 @@
+@font-face {
+    font-family: roboto;
+    src: url(./static/font/roboto/Roboto-Regular.ttf)format(truetype);
+}
+@font-face {
+    font-family: lobster;
+    src: url(./static/font/Lobster-Regular/Lobster-Regular.ttf)format(truetype);
+}
+h2{
+    font-family: lobster;
+    font-size: 50px;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+#grandediv{
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+}
+h3{
+    font-family: lobster;
+    font-size: 35px;
+    font-weight: 100;
+    text-align: center;
+    color: #F64F1B;
+    margin-top: 0;
+}
+p{
+    font-family: roboto;
+    font-size: 25px;
+    margin-left: 200px;
+    line-height: 0px;
+}
+#filles{
+    font-family: roboto;
+    font-size: 25px;
+    color: #29208D;
+    margin-left: 750px;
+    font-weight: 1000;
+}
+#carre{
+    width: 20px;
+    height: 20px;
+    margin-left: 200px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+#divenfant{
+    display: flex;
+}
+#femme{
+    margin-left: 10px;
+    margin-top: 60px;
+}
+#total{
+    font-family: roboto;
+    font-weight: 1000;
+    font-size: 25px;
+    margin-left: 650px;
+    margin-top: 60px;
+}
+#divenfant1{
+    border-width: 1px;
+    border-style: solid;
+    height: 47px;
+    margin-top: 37px;
+    margin-left: 5px;
+    font-size: 40px;
+}
+#ajout{
+    cursor: pointer;
+}
+#ajout1{
+    cursor: pointer;
+}
+#ajout2{
+    cursor: pointer;
+}
+#moin{
+    cursor: pointer;
+}
+#moin1{
+    cursor: pointer;
+}
+#moin2{
+    cursor: pointer;
+}
